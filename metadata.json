@@ -1,0 +1,6 @@
+{
+  "name": "NanoForge - Ship Focused Micro-Apps in Minutes",
+  "description": "The fast developer workbench for coding, previewing, and shipping single-purpose web apps and internal micro-tools with zero config.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
